@@ -1,22 +1,22 @@
 [
     {
-        "source": -10012345678,
-        "destination": [-10098765432, -10012345678]
+        "source": -1002241684981,
+        "destination": [-1002272350841]
     },
     {
-        "source": -10098765432,
-        "destination": [-10012345678, "-10012345678#98765"],
-        "filters": ["word1", "word2"]
+        "source": -1002241684981,
+        "destination": [, "-1002272350841]"],
+        "filters": ["", ""]
     },
     {
-        "source": -10087654321,
-        "destination": [-10033333333],
-        "blacklist": ["word3", "word4"]
+        "source": -1002241684981,
+        "destination": [-1002272350841]],
+        "blacklist": ["", ""]
     },
     {
-        "source": -10087654321,
-        "destination": [-10033333333],
-        "filters": ["word5"],
-        "blacklist": ["word6"]
+        "source": -1002241684981,
+        "destination": [-1002272350841]],
+        "filters": [""],
+        "blacklist": [""]
     }
 ]
